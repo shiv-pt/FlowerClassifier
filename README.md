@@ -1,2 +1,2 @@
 # FlowerClassifier
-A transfer learning based neural network that classifies image of flower based on its type/category.
+A transfer learning based neural network that classifies image of flower based on its type/category. It contains jupyter notebook having code to train, predict and analyze. Other files train.py, predict.py, flowers folder and cat_to_name.json are used as part of command line application for the same application. Here, directory is dataset to train on and json file is category to name mapping of the flowers. Project built for Udacity's AI Programming with Python Nanodegree program.
